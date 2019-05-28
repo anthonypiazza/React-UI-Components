@@ -1,0 +1,34 @@
+.app-container{
+    margin: 10px 30%;
+}
+
+.number{
+    background-color: white;
+    padding: 35px 50px;
+    font-size: 3rem;
+    font-weight: bold;
+    border-color: rgb(172, 166, 166);
+}
+
+.operator{
+    background-color: #a0001e;
+    color: white;
+    padding: 35px 50px;
+    font-size: 3rem;
+    font-weight: bold;
+    border-color: rgb(172, 166, 166);
+}
+
+.input-row{
+    display: flex;
+    flex-direction: column;
+}
+
+.number-row{
+    display: flex;
+}
+
+.calc-container{
+    display: flex;
+    width: 100%;
+}

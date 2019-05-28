@@ -1,0 +1,13 @@
+.calculator-display > h1{
+    font-size: 4rem;
+    background-color: none;
+    color: white;
+    margin: 0px;
+    text-align: right;
+}
+
+.calculator-display{
+    background-color: black;
+    padding: 30px 5%;
+    width: 94%;
+}

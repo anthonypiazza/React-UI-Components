@@ -1,0 +1,18 @@
+.action-button{
+    background-color: white;
+    padding: 35px 138px;
+    font-size: 3rem;
+    font-weight: bold;
+    border-color: rgb(172, 166, 166);
+    border-width: 2px;
+}
+
+.default{
+    background-color: white;
+    padding: 35px 181px;
+    font-size: 3rem;
+    font-weight: bold;
+    border-color: rgb(172, 166, 166);
+    border-width: 2px;
+    margin-right: -91px;
+}
