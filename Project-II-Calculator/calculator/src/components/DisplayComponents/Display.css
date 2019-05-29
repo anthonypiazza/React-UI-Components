@@ -4,10 +4,10 @@
     color: white;
     margin: 0px;
     text-align: right;
+    padding: 30px 5%;
 }
 
 .calculator-display{
     background-color: black;
-    padding: 30px 5%;
-    width: 94%;
+    width: 522px;
 }
