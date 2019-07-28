@@ -1,1 +1,27 @@
 /* All styles for your Card Components live here */
+
+.card-banner > img{
+    height: 400px;
+    width: auto;
+    margin-left: 3.5%;
+}
+
+.content-title{
+    margin-left: 4%;
+    font-size: 1.2rem;
+    margin-bottom: -15px;
+}
+
+.content-body{
+    margin-left: 4%;
+    font-size: 1.35rem;
+    padding-right: 70%;
+    line-height: 1.4;
+}
+
+.content-link{
+    margin-left: 4%;
+    color: gray;
+    font-size: 1.3rem;
+    margin-top: -10px;
+}
